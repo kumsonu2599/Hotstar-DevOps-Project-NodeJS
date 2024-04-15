@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: hotstar
-        image: veeranarni/hotstar:latest
+        image: veeranarni/hotstarproject:latest
         ports:
         - containerPort: 3000  # Port your application listens on
